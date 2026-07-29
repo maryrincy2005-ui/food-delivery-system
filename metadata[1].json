@@ -1,0 +1,6 @@
+{
+  "name": "Smart Food Delivery Management System",
+  "description": "A full-stack food delivery management platform with role-based portals for customers, restaurants, delivery partners, and admins, featuring live tracking, AI recommendations, payments, and analytics.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
